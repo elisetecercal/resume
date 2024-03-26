@@ -41,8 +41,12 @@ $color--highlight: #ED5F1A;
 	color: $color--highlight;
 }
 
+.work-experience-1 { 
+    padding-top: 85px !important;
+}
+
 .skills {
-    height: 320px; 
+    height: 270px; 
     width: 777px;
     font-family: $font-family--monospace;
     line-height: normal;
@@ -59,59 +63,59 @@ $color--highlight: #ED5F1A;
 
         &.w1 {
             color: $color--dark;
-            font-size: 0.6rem;
+            font-size: 0.7rem;
             transform: rotate(5deg);
             font-weight: 300;
         }
         &.w2 {
             color: $color--dark;
-            font-size: 0.635rem;
+            font-size: 0.75rem;
             transform: rotate(-1deg);
             font-weight: 300;
         }
         &.w3 {
             color: $color--dark;
-            font-size: 0.67rem;
+            font-size: 0.9rem;
             transform: rotate(-2deg);
         }
         &.w4 {
             color: lighten($color--dark, 6.2%);
-            font-size: 0.70rem;
+            font-size: 1rem;
             transform: rotate(1deg);
             font-weight: 500;
         }
         &.w5 {
             color: lighten($color--dark, 6.2%);
-            font-size: 0.75rem;
+            font-size: 1.05rem;
             transform: rotate(1deg);
             font-weight: 600;
         }
         &.w6 {
             color: lighten($color--dark, 6.2%);
-            font-size: 0.8rem;
+            font-size: 1.1rem;
             transform: rotate(-5deg);
             font-weight: 300;
         }
         &.w7 {
             color: lighten($color--dark, 5.5%);
-            font-size: 0.85rem;
+            font-size: 1.2rem;
             transform: rotate(2deg);
         }
         &.w8 {
             color: lighten($color--dark, 3.5%);
-            font-size: 0.9rem;
+            font-size: 1.3rem;
             transform: rotate(-1deg);
             font-weight: 500;
         }
         &.w9 {
             color: lighten($color--dark, 6.2%);
-            font-size: 1.08rem;
+            font-size: 1.4rem;
             transform: rotate(-1deg);
             font-weight: 600;
         }
         &.w10 {
             color: $color--highlight;
-            font-size: 2.2rem;
+            font-size: 1.7rem;
             font-weight: 700;
             padding: 10px;
         }
