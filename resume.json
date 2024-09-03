@@ -29,14 +29,14 @@
   },
   "work": [
     {
-      "company": "Self Learner and a volunteer",
-      "position": "Quality Assurance Engineer Junior",
+      "company": "and a volunteer at QA Coders",
+      "position": "QA Jr. Self Learner",
       "website": "",
       "startDate": "2023-07",
       "summary": "",
       "highlights": [
-        "I have been learning how to plan and analyze tests to create them effectively using best practices to design different tests for various situations, explaining them clearly with the usage of the Gherkin methodology. At this moment I'm learning more about tools for automated tests using Cypress, Postman and Robot Framework",
-        "I have been studying and applying the agile methodoly to optimize and manage my own learning path using solutions such as Jira, Azure, Trello, Miro, Figma, and Notion"
+        "I have been learning how to plan and analyze tests, applying best practices to design and implement tests for various scenarios. I have also gained experience in clearly documenting these tests using the Gherkin methodology. Currently, I am expanding my knowledge of automated testing tools, such as Cypress. As a volunteer at QA Coders, I had the opportunity to learn and practice API testing with Postman and Robot Framework",
+        "I have also been studying and applying agile methodologies to optimize and manage my learning journey, using tools such as Jira, Azure DevOps, Trello, Miro, Figma, and Notion"
       ]
     },
     {
@@ -58,23 +58,21 @@
       "endDate": "2014-12",
       "summary": "",
       "highlights": [
-        "I responsibly sourced and recruited new employees via LinkedIn, identifying and contacting potential candidates, screening resumes,  conducting initial interviews, and lately extending the job offer",
+        "I responsibly sourced and recruited new employees via LinkedIn, identifying and contacting potential candidates, screening resumes, conducting initial interviews, and lately extending the job offer",
         "Performed administrative tasks related to HR, such as personal employee data, payslips, vacations, hirings, lay-offs, tax related topics, administrative office routines, filing and preparing monthly reports. Contributed to the development and implementation of HR policies and procedures, supporting the company's overall HR strategy towards various projects and initiatives such as 360-feedback rounds and career path creation which had impacted positevely the employee retention"
       ]
     }
   ],
-  "education": [
+  "certificates": [
     {
-      "institution": "UNISOCIESC",
-      "area": "Human Resources Management (2726 hours)",
+      "issuer": "UNISOCIESC",
+      "name": "Human Resources Management (2726 hours)",
       "studyType": "Associate Degree",
       "startDate": "2011-01",
-      "endDate": "2013-06",
+      "date": "2013-06-01",
       "gpa": "",
       "courses": []
-    }
-  ],
-  "certificates": [
+    },
     {
       "name": "Manual Software Testing (16 hours)",
       "date": "2024-01-15",
@@ -94,12 +92,12 @@
       "issuer": "University of São Paulo (USP)"
     }
   ],
-  "volunteer": [],
   "languages": [
     {
       "language": "Portuguese",
       "fluency": "Native"
     },
+
     {
       "language": "English",
       "fluency": "Professional working proficiency"
